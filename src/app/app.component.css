@@ -1,0 +1,32 @@
+p {
+    text-align: center;
+}
+h1 {
+    float: left;
+    margin-top: 5px;
+}
+button {
+    background-color: #04AA6D; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.pull-right {
+    float: right;
+}
+
+hr {
+    margin-top: 50px;
+}
+
+.success {background-color: #04AA6D;} /* Green */
+.primary {background-color: #008CBA;} /* Blue */
+.danger {background-color: #f44336;} /* Red */
+.default {background-color: #e7e7e7; color: black;} /* Gray */
+.dark {background-color: #555555;} /* Black */
